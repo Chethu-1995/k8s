@@ -1,0 +1,2 @@
+kubeadm join 172.31.39.255:6443 --token lgibrj.xi61xnmvdtu2ndyv \
+        --discovery-token-ca-cert-hash sha256:1f816a96411c87dc7d3ab65f4cf97e4e3e4c84e9061f9738f71c5e5e793466d1
